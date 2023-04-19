@@ -35,6 +35,6 @@ Horas cronológicas: 24; Créditos: 5
   * Nociones básicas de series de tiempo
 
 ## Evaluaciones
-Control 1: Lunes 3 de octubre 2022 (clase 3). Ponderación, 1/3. <br>
-Control 2: Lunes 7 de noviembre 2022 (clase 6). Ponderación, 1/3. <br>
-Control 3: Lunes 21 de noviembre 2022 (clase 8). Ponderación, 1/3. <br>
+Control 1: Miércoles 3 de mayo 2023 (clase 3). Ponderación, 1/3. <br>
+Control 2: Miércoles 24 de mayo 2023 (clase 6). Ponderación, 1/3. <br>
+Control 3: Miércoles 7 de junio 2023 (clase 8). Ponderación, 1/3. <br>
